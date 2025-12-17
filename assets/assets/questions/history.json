@@ -1,0 +1,61 @@
+[
+  {"id":"h1","question":"Who discovered America?","options":["Columbus","Magellan","Newton","Einstein"],"correctIndex":0},
+  {"id":"h2","question":"First World War started in?","options":["1912","1914","1916","1918"],"correctIndex":1},
+  {"id":"h3","question":"Who built the Taj Mahal?","options":["Akbar","Babur","Shah Jahan","Aurangzeb"],"correctIndex":2},
+  {"id":"h4","question":"Ancient pyramids are in?","options":["Rome","Greece","Egypt","China"],"correctIndex":2},
+  {"id":"h5","question":"Who was the first man on the moon?","options":["Buzz Aldrin","Neil Armstrong","Yuri Gagarin","John Glenn"],"correctIndex":1},
+
+  {"id":"h6","question":"Capital of France?","options":["Berlin","Madrid","Paris","Rome"],"correctIndex":2},
+  {"id":"h7","question":"Largest ocean in the world?","options":["Atlantic","Indian","Arctic","Pacific"],"correctIndex":3},
+  {"id":"h8","question":"Who invented the telephone?","options":["Edison","Bell","Tesla","Newton"],"correctIndex":1},
+  {"id":"h9","question":"Which planet is known as the Red Planet?","options":["Earth","Venus","Mars","Jupiter"],"correctIndex":2},
+  {"id":"h10","question":"Fastest land animal?","options":["Lion","Tiger","Cheetah","Leopard"],"correctIndex":2},
+
+  {"id":"h11","question":"Largest continent?","options":["Africa","Asia","Europe","Australia"],"correctIndex":1},
+  {"id":"h12","question":"Who wrote Hamlet?","options":["Shakespeare","Homer","Tolstoy","Dickens"],"correctIndex":0},
+  {"id":"h13","question":"Which gas do plants absorb?","options":["Oxygen","Nitrogen","Carbon Dioxide","Hydrogen"],"correctIndex":2},
+  {"id":"h14","question":"National flower of Pakistan?","options":["Rose","Tulip","Jasmine","Sunflower"],"correctIndex":2},
+  {"id":"h15","question":"How many continents are there?","options":["5","6","7","8"],"correctIndex":2},
+
+  {"id":"h16","question":"Which blood group is universal donor?","options":["A","B","AB","O"],"correctIndex":3},
+  {"id":"h17","question":"Smallest prime number?","options":["0","1","2","3"],"correctIndex":2},
+  {"id":"h18","question":"Who painted Mona Lisa?","options":["Picasso","Van Gogh","Da Vinci","Michelangelo"],"correctIndex":2},
+  {"id":"h19","question":"Largest desert in the world?","options":["Gobi","Sahara","Arabian","Kalahari"],"correctIndex":1},
+  {"id":"h20","question":"Which organ purifies blood?","options":["Heart","Lungs","Kidney","Liver"],"correctIndex":2},
+
+  {"id":"h21","question":"Currency of Japan?","options":["Won","Yen","Dollar","Euro"],"correctIndex":1},
+  {"id":"h22","question":"Speed of light is approximately?","options":["300 km/s","3000 km/s","300000 km/s","150000 km/s"],"correctIndex":2},
+  {"id":"h23","question":"Tallest mountain in the world?","options":["K2","Everest","Nanga Parbat","Makalu"],"correctIndex":1},
+  {"id":"h24","question":"Who invented electricity?","options":["Tesla","Edison","Franklin","Newton"],"correctIndex":2},
+  {"id":"h25","question":"Which planet has rings?","options":["Mars","Earth","Saturn","Venus"],"correctIndex":2},
+
+  {"id":"h26","question":"Chemical symbol of Gold?","options":["Au","Ag","Gd","Go"],"correctIndex":0},
+  {"id":"h27","question":"Largest mammal?","options":["Elephant","Whale","Giraffe","Rhino"],"correctIndex":1},
+  {"id":"h28","question":"Which country gifted Statue of Liberty to USA?","options":["UK","France","Germany","Italy"],"correctIndex":1},
+  {"id":"h29","question":"How many bones in adult human body?","options":["204","206","208","210"],"correctIndex":1},
+  {"id":"h30","question":"Who was the first President of USA?","options":["Lincoln","Washington","Jefferson","Adams"],"correctIndex":1},
+
+  {"id":"h31","question":"National animal of Pakistan?","options":["Tiger","Markhor","Lion","Deer"],"correctIndex":1},
+  {"id":"h32","question":"Which vitamin is from sunlight?","options":["A","B","C","D"],"correctIndex":3},
+  {"id":"h33","question":"Largest river by volume?","options":["Nile","Amazon","Yangtze","Indus"],"correctIndex":1},
+  {"id":"h34","question":"Which metal is liquid at room temperature?","options":["Iron","Mercury","Copper","Silver"],"correctIndex":1},
+  {"id":"h35","question":"Who discovered gravity?","options":["Newton","Einstein","Galileo","Tesla"],"correctIndex":0},
+
+  {"id":"h36","question":"Longest river in the world?","options":["Amazon","Indus","Nile","Yangtze"],"correctIndex":2},
+  {"id":"h37","question":"Which country has largest population?","options":["India","USA","China","Russia"],"correctIndex":2},
+  {"id":"h38","question":"Which planet is closest to sun?","options":["Venus","Earth","Mercury","Mars"],"correctIndex":2},
+  {"id":"h39","question":"Which organ controls the body?","options":["Heart","Brain","Liver","Lungs"],"correctIndex":1},
+  {"id":"h40","question":"Who wrote Quran?","options":["Prophet Muhammad ﷺ","Allah","Sahaba","Scholars"],"correctIndex":1},
+
+  {"id":"h41","question":"Which country has Eiffel Tower?","options":["Italy","Spain","France","Germany"],"correctIndex":2},
+  {"id":"h42","question":"What is H2O?","options":["Salt","Hydrogen","Water","Oxygen"],"correctIndex":2},
+  {"id":"h43","question":"Which shape has 4 equal sides?","options":["Triangle","Rectangle","Square","Circle"],"correctIndex":2},
+  {"id":"h44","question":"Which gas is essential for breathing?","options":["Carbon","Nitrogen","Oxygen","Helium"],"correctIndex":2},
+  {"id":"h45","question":"Who was the founder of Pakistan?","options":["Iqbal","Jinnah","Liaquat Ali","Sir Syed"],"correctIndex":1},
+
+  {"id":"h46","question":"Which planet is called Earth's twin?","options":["Mars","Venus","Jupiter","Saturn"],"correctIndex":1},
+  {"id":"h47","question":"Which animal is known as King of Jungle?","options":["Tiger","Elephant","Lion","Bear"],"correctIndex":2},
+  {"id":"h48","question":"Which country is also called Land of Rising Sun?","options":["China","Japan","Korea","Thailand"],"correctIndex":1},
+  {"id":"h49","question":"How many hours in a day?","options":["12","18","24","36"],"correctIndex":2},
+  {"id":"h50","question":"Which instrument measures temperature?","options":["Barometer","Thermometer","Hygrometer","Speedometer"],"correctIndex":1}
+]

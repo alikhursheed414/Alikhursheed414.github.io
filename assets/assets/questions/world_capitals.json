@@ -1,0 +1,104 @@
+[
+  {"id":"c1","question":"What is the capital of Afghanistan?","options":["Kabul","Tirana","Algiers","Andorra la Vella"],"correctIndex":0},
+  {"id":"c2","question":"What is the capital of Albania?","options":["Algiers","Tirana","Luanda","Canberra"],"correctIndex":1},
+  {"id":"c3","question":"What is the capital of Algeria?","options":["Ottawa","Algiers","Dhaka","Bridgetown"],"correctIndex":1},
+  {"id":"c4","question":"What is the capital of Andorra?","options":["Madrid","Andorra la Vella","Vienna","Baku"],"correctIndex":1},
+  {"id":"c5","question":"What is the capital of Angola?","options":["Luanda","Nassau","Manama","Dhaka"],"correctIndex":0},
+
+  {"id":"c6","question":"What is the capital of Antigua and Barbuda?","options":["Saint John’s","Bridgetown","Roseau","Basseterre"],"correctIndex":0},
+  {"id":"c7","question":"What is the capital of Argentina?","options":["Buenos Aires","Yerevan","Canberra","Vienna"],"correctIndex":0},
+  {"id":"c8","question":"What is the capital of Armenia?","options":["Baku","Yerevan","Tbilisi","Athens"],"correctIndex":1},
+  {"id":"c9","question":"What is the capital of Australia?","options":["Sydney","Melbourne","Canberra","Perth"],"correctIndex":2},
+  {"id":"c10","question":"What is the capital of Austria?","options":["Vienna","Bratislava","Budapest","Berlin"],"correctIndex":0},
+
+  {"id":"c11","question":"What is the capital of Azerbaijan?","options":["Baku","Tbilisi","Erbil","Yerevan"],"correctIndex":0},
+  {"id":"c12","question":"What is the capital of Bahamas?","options":["Nassau","Havana","Kingston","Port-au-Prince"],"correctIndex":0},
+  {"id":"c13","question":"What is the capital of Bahrain?","options":["Riyadh","Manama","Doha","Kuwait City"],"correctIndex":1},
+  {"id":"c14","question":"What is the capital of Bangladesh?","options":["Colombo","Dhaka","Thimphu","Kabul"],"correctIndex":1},
+  {"id":"c15","question":"What is the capital of Barbados?","options":["Bridgetown","Nassau","Castries","Roseau"],"correctIndex":0},
+
+  {"id":"c16","question":"What is the capital of Belarus?","options":["Minsk","Brussels","Vilnius","Riga"],"correctIndex":0},
+  {"id":"c17","question":"What is the capital of Belgium?","options":["Brussels","Amsterdam","Luxembourg","Bern"],"correctIndex":0},
+  {"id":"c18","question":"What is the capital of Belize?","options":["Belmopan","San Salvador","Tegucigalpa","Managua"],"correctIndex":0},
+  {"id":"c19","question":"What is the capital of Benin?","options":["Porto-Novo","Cotonou","Lomé","Accra"],"correctIndex":0},
+  {"id":"c20","question":"What is the capital of Bhutan?","options":["Kathmandu","Thimphu","Dhaka","Colombo"],"correctIndex":1},
+
+  {"id":"c21","question":"What is the capital of Bolivia?","options":["La Paz","Sucre","Quito","Asunción"],"correctIndex":1},
+  {"id":"c22","question":"What is the capital of Bosnia and Herzegovina?","options":["Sarajevo","Zagreb","Belgrade","Ljubljana"],"correctIndex":0},
+  {"id":"c23","question":"What is the capital of Botswana?","options":["Gaborone","Lusaka","Harare","Maputo"],"correctIndex":0},
+  {"id":"c24","question":"What is the capital of Brazil?","options":["Brasília","Buenos Aires","Montevideo","Santiago"],"correctIndex":0},
+  {"id":"c25","question":"What is the capital of Brunei?","options":["Bandar Seri Begawan","Kuala Lumpur","Jakarta","Manila"],"correctIndex":0},
+
+  {"id":"c26","question":"What is the capital of Bulgaria?","options":["Sofia","Bucharest","Belgrade","Athens"],"correctIndex":0},
+  {"id":"c27","question":"What is the capital of Burkina Faso?","options":["Ouagadougou","Accra","Lagos","Abidjan"],"correctIndex":0},
+  {"id":"c28","question":"What is the capital of Burundi?","options":["Bujumbura","Gitega","Kigali","Dar es Salaam"],"correctIndex":1},
+  {"id":"c29","question":"What is the capital of Cambodia?","options":["Bangkok","Phnom Penh","Hanoi","Vientiane"],"correctIndex":1},
+  {"id":"c30","question":"What is the capital of Cameroon?","options":["Yaoundé","Douala","Accra","Lagos"],"correctIndex":0},
+
+  {"id":"c31","question":"What is the capital of Canada?","options":["Toronto","Vancouver","Ottawa","Montreal"],"correctIndex":2},
+  {"id":"c32","question":"What is the capital of Cape Verde?","options":["Praia","Bissau","Dakar","Freetown"],"correctIndex":0},
+  {"id":"c33","question":"What is the capital of Central African Republic?","options":["Bangui","N’Djamena","Kampala","Khartoum"],"correctIndex":0},
+  {"id":"c34","question":"What is the capital of Chad?","options":["N’Djamena","Khartoum","Bangui","Kigali"],"correctIndex":0},
+  {"id":"c35","question":"What is the capital of Chile?","options":["Santiago","Buenos Aires","Montevideo","La Paz"],"correctIndex":0},
+
+  {"id":"c36","question":"What is the capital of China?","options":["Beijing","Shanghai","Hong Kong","Taipei"],"correctIndex":0},
+  {"id":"c37","question":"What is the capital of Colombia?","options":["Bogotá","Medellín","Cali","Barranquilla"],"correctIndex":0},
+  {"id":"c38","question":"What is the capital of Comoros?","options":["Moroni","Antananarivo","Victoria","Lilongwe"],"correctIndex":0},
+  {"id":"c39","question":"What is the capital of Congo (Republic)?","options":["Brazzaville","Kinshasa","Lagos","Accra"],"correctIndex":0},
+  {"id":"c40","question":"What is the capital of Congo (Democratic Republic)?","options":["Kinshasa","Brazzaville","Lusaka","Harare"],"correctIndex":0},
+
+  {"id":"c41","question":"What is the capital of Costa Rica?","options":["San José","Tegucigalpa","Managua","Panama City"],"correctIndex":0},
+  {"id":"c42","question":"What is the capital of Croatia?","options":["Zagreb","Belgrade","Ljubljana","Sarajevo"],"correctIndex":0},
+  {"id":"c43","question":"What is the capital of Cuba?","options":["Havana","Kingston","Port-au-Prince","Santo Domingo"],"correctIndex":0},
+  {"id":"c44","question":"What is the capital of Cyprus?","options":["Nicosia","Athens","Valletta","Riga"],"correctIndex":0},
+  {"id":"c45","question":"What is the capital of Czechia (Czech Republic)?","options":["Prague","Bratislava","Vienna","Budapest"],"correctIndex":0},
+
+  {"id":"c46","question":"What is the capital of Denmark?","options":["Copenhagen","Oslo","Stockholm","Helsinki"],"correctIndex":0},
+  {"id":"c47","question":"What is the capital of Djibouti?","options":["Djibouti","Asmara","Addis Ababa","Khartoum"],"correctIndex":0},
+  {"id":"c48","question":"What is the capital of Dominica?","options":["Roseau","Bridgetown","Saint John’s","Basseterre"],"correctIndex":0},
+  {"id":"c49","question":"What is the capital of Dominican Republic?","options":["Santo Domingo","Port-au-Prince","Havana","San Juan"],"correctIndex":0},
+  {"id":"c50","question":"What is the capital of Ecuador?","options":["Quito","Bogotá","Lima","Caracas"],"correctIndex":0},
+
+  {"id":"c51","question":"What is the capital of Egypt?","options":["Cairo","Alexandria","Khartoum","Tripoli"],"correctIndex":0},
+  {"id":"c52","question":"What is the capital of El Salvador?","options":["San Salvador","Managua","Tegucigalpa","Guatemala City"],"correctIndex":0},
+  {"id":"c53","question":"What is the capital of Equatorial Guinea?","options":["Malabo","Libreville","Yaoundé","Bangui"],"correctIndex":0},
+  {"id":"c54","question":"What is the capital of Eritrea?","options":["Asmara","Kigali","Addis Ababa","Juba"],"correctIndex":0},
+  {"id":"c55","question":"What is the capital of Estonia?","options":["Tallinn","Riga","Vilnius","Helsinki"],"correctIndex":0},
+
+  {"id":"c56","question":"What is the capital of Eswatini?","options":["Mbabane","Lobamba","Gaborone","Harare"],"correctIndex":0},
+  {"id":"c57","question":"What is the capital of Ethiopia?","options":["Addis Ababa","Nairobi","Khartoum","Kampala"],"correctIndex":0},
+  {"id":"c58","question":"What is the capital of Fiji?","options":["Suva","Nadi","Lautoka","Levuka"],"correctIndex":0},
+  {"id":"c59","question":"What is the capital of Finland?","options":["Helsinki","Stockholm","Oslo","Copenhagen"],"correctIndex":0},
+  {"id":"c60","question":"What is the capital of France?","options":["Paris","Lyon","Marseille","Nice"],"correctIndex":0},
+
+  {"id":"c61","question":"What is the capital of Gabon?","options":["Libreville","Porto-Novo","Brazzaville","Yaoundé"],"correctIndex":0},
+  {"id":"c62","question":"What is the capital of Gambia?","options":["Banjul","Dakar","Freetown","Bissau"],"correctIndex":0},
+  {"id":"c63","question":"What is the capital of Georgia?","options":["Tbilisi","Yerevan","Baku","Ankara"],"correctIndex":0},
+  {"id":"c64","question":"What is the capital of Germany?","options":["Berlin","Munich","Frankfurt","Hamburg"],"correctIndex":0},
+  {"id":"c65","question":"What is the capital of Ghana?","options":["Accra","Kumasi","Tamale","Cape Coast"],"correctIndex":0},
+
+  {"id":"c66","question":"What is the capital of Greece?","options":["Athens","Thessaloniki","Patras","Heraklion"],"correctIndex":0},
+  {"id":"c67","question":"What is the capital of Grenada?","options":["St. George’s","Kingston","Port-au-Prince","Bridgetown"],"correctIndex":0},
+  {"id":"c68","question":"What is the capital of Guatemala?","options":["Guatemala City","San Salvador","Tegucigalpa","Managua"],"correctIndex":0},
+  {"id":"c69","question":"What is the capital of Guinea?","options":["Conakry","Bissau","Freetown","Monrovia"],"correctIndex":0},
+  {"id":"c70","question":"What is the capital of Guinea‑Bissau?","options":["Bissau","Conakry","Freetown","Monrovia"],"correctIndex":0},
+
+  {"id":"c71","question":"What is the capital of Guyana?","options":["Georgetown","Paramaribo","Bridgetown","Port‑of‑Spain"],"correctIndex":0},
+  {"id":"c72","question":"What is the capital of Haiti?","options":["Port‑au‑Prince","Santo Domingo","Havana","Kingston"],"correctIndex":0},
+  {"id":"c73","question":"What is the capital of Honduras?","options":["Tegucigalpa","Guatemala City","San Salvador","Managua"],"correctIndex":0},
+  {"id":"c74","question":"What is the capital of Hungary?","options":["Budapest","Debrecen","Szeged","Miskolc"],"correctIndex":0},
+  {"id":"c75","question":"What is the capital of Iceland?","options":["Reykjavik","Akureyri","Kópavogur","Hafnarfjörður"],"correctIndex":0},
+
+  {"id":"c76","question":"What is the capital of India?","options":["New Delhi","Mumbai","Bangalore","Chennai"],"correctIndex":0},
+  {"id":"c77","question":"What is the capital of Indonesia?","options":["Jakarta","Bali","Surabaya","Medan"],"correctIndex":0},
+  {"id":"c78","question":"What is the capital of Iran?","options":["Tehran","Mashhad","Isfahan","Shiraz"],"correctIndex":0},
+  {"id":"c79","question":"What is the capital of Iraq?","options":["Baghdad","Basra","Mosul","Erbil"],"correctIndex":0},
+  {"id":"c80","question":"What is the capital of Ireland?","options":["Dublin","Cork","Galway","Limerick"],"correctIndex":0},
+
+  {"id":"c81","question":"What is the capital of Israel?","options":["Jerusalem","Tel Aviv","Haifa","Beersheba"],"correctIndex":0},
+  {"id":"c82","question":"What is the capital of Italy?","options":["Rome","Milan","Naples","Turin"],"correctIndex":0},
+  {"id":"c83","question":"What is the capital of Jamaica?","options":["Kingston","Montego Bay","Ocho Rios","Spanish Town"],"correctIndex":0},
+  {"id":"c84","question":"What is the capital of Japan?","options":["Tokyo","Kyoto","Osaka","Hiroshima"],"correctIndex":0},
+  {"id":"c85","question":"What is the capital of Jordan?","options":["Amman","Aqaba","Zarqa","Irbid"],"correctIndex":0}
+]
+

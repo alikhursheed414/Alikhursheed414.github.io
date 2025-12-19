@@ -35940,7 +35940,7 @@ hJ(a){return!0}}
 A.FW.prototype={
 L(a){var s,r,q,p,o,n,m,l,k,j,i,h=null,g=4294901842,f=$.G()
 f=180*Math.min(f.gb1(),f.ga8())
-s=A.hl("assets/images/onboard1.JPG",h,B.bP,480*$.G().ga8(),1/0)
+s=A.hl("assets/images/onboard.jpeg",h,B.bP,480*$.G().ga8(),1/0)
 $.aa()
 r=A.ni(0,A.lR(A.bJ(h,h,B.n,A.ae(B.c.ad(127.5),B.j.p()>>>16&255,B.j.p()>>>8&255,B.j.p()&255),h,h,h,h,h,h,h,h,h,h),new A.h2(1,1,h)))
 q=$.G().gb1()
@@ -35970,7 +35970,7 @@ $S:262}
 A.pJ.prototype={
 L(a){var s,r,q,p,o,n,m,l,k,j,i,h=null,g=4294901842,f=$.G()
 f=120*Math.min(f.gb1(),f.ga8())
-s=A.hl("assets/images/onboard2.jpg",h,B.bP,380*$.G().ga8(),1/0)
+s=A.hl("assets/images/onboard.jpeg",h,B.bP,380*$.G().ga8(),1/0)
 $.aa()
 r=A.ni(0,A.lR(A.bJ(h,h,B.n,A.ae(B.c.ad(127.5),B.j.p()>>>16&255,B.j.p()>>>8&255,B.j.p()&255),h,h,h,h,h,h,h,h,h,h),new A.h2(1,1,h)))
 q=$.G().gb1()
@@ -36000,7 +36000,7 @@ $S:261}
 A.pK.prototype={
 L(a){var s,r,q,p,o,n,m,l,k,j,i,h=null,g=4294901842,f=$.G()
 f=120*Math.min(f.gb1(),f.ga8())
-s=A.hl("assets/images/onboard3.jpg",h,B.bP,380*$.G().ga8(),1/0)
+s=A.hl("assets/images/onboard.jpeg",h,B.bP,380*$.G().ga8(),1/0)
 $.aa()
 r=A.ni(0,A.lR(A.bJ(h,h,B.n,A.ae(B.c.ad(127.5),B.j.p()>>>16&255,B.j.p()>>>8&255,B.j.p()&255),h,h,h,h,h,h,h,h,h,h),new A.h2(1,1,h)))
 q=$.G().gb1()
@@ -36223,7 +36223,7 @@ A.FJ.prototype={
 L(a){return new A.x6(new A.a0A(),!0,!0,B.KR,null)}}
 A.a0A.prototype={
 $2(a,b){var s=null
-return new A.mw(new A.xI(s),"IQ Quiz App",A.a6J(s,s,B.qE,B.ej,s),!1,s)},
+return new A.mw(new A.xI(s),"Edu Quiz",A.a6J(s,s,B.qE,B.ej,s),!1,s)},
 $S:251}
 A.nm.prototype={}
 A.m4.prototype={
@@ -36246,7 +36246,7 @@ $0(){return A.mx($.b4(),null)},
 $S:0}
 A.a1N.prototype={
 $2(a,b){var s=null,r=this.a
-return A.qm(A.hd(new A.dM(new A.aj(0,900,b.d,1/0),new A.bH(B.hp,A.cf(A.c([A.al("Last Updated",A.cn().$3$color$fontSize$fontWeight(B.ad,18,B.R)),r.jz("December 2025"),B.b9,A.al("Introduction",A.cn().$3$color$fontSize$fontWeight(B.ad,18,B.R)),r.jz("IQ Quiz App respects your privacy. This application does not collect, store, or share any personal data. The app is designed to work completely offline and does not require any user identification."),B.b9,A.al("Information Collection",A.cn().$3$color$fontSize$fontWeight(B.ad,18,B.R)),r.jz("We do not collect any personal or non-personal information, including but not limited to name, email, phone number, location, device information, or usage data."),B.b9,A.al("Permissions",A.cn().$3$color$fontSize$fontWeight(B.ad,18,B.R)),r.jz("This app does not request or use any device permissions such as camera, microphone, location, storage, or contacts."),B.b9,A.al("Third-Party Services",A.cn().$3$color$fontSize$fontWeight(B.ad,18,B.R)),r.jz("IQ Quiz App does not use third-party services or SDKs that collect or process user data."),B.b9,A.al("Children\u2019s Privacy",A.cn().$3$color$fontSize$fontWeight(B.ad,18,B.R)),r.jz("This app is safe for all age groups. Since no data collection exists, there is no risk to children\u2019s privacy."),B.b9,A.al("Data Security",A.cn().$3$color$fontSize$fontWeight(B.ad,18,B.R)),r.jz("As no data is collected or stored, there are no data security risks associated with the use of this app."),B.b9,A.al("Changes to This Policy",A.cn().$3$color$fontSize$fontWeight(B.ad,18,B.R)),r.jz("We may update this Privacy Policy from time to time. Any changes will be reflected on this page."),B.fm,A.hd(A.al("\xa9 2025 IQ Quiz App",A.cn().$2$color$fontSize(B.ak,14)),s,s)],t.p),B.ae,B.w,B.x),s),s),s,s))},
+return A.qm(A.hd(new A.dM(new A.aj(0,900,b.d,1/0),new A.bH(B.hp,A.cf(A.c([A.al("Last Updated",A.cn().$3$color$fontSize$fontWeight(B.ad,18,B.R)),r.jz("December 2025"),B.b9,A.al("Introduction",A.cn().$3$color$fontSize$fontWeight(B.ad,18,B.R)),r.jz("Edu Quiz App respects your privacy. This application does not collect, store, or share any personal data. The app is designed to work completely offline and does not require any user identification."),B.b9,A.al("Information Collection",A.cn().$3$color$fontSize$fontWeight(B.ad,18,B.R)),r.jz("We do not collect any personal or non-personal information, including but not limited to name, email, phone number, location, device information, or usage data."),B.b9,A.al("Permissions",A.cn().$3$color$fontSize$fontWeight(B.ad,18,B.R)),r.jz("This app does not request or use any device permissions such as camera, microphone, location, storage, or contacts."),B.b9,A.al("Third-Party Services",A.cn().$3$color$fontSize$fontWeight(B.ad,18,B.R)),r.jz("Edu Quiz App does not use third-party services or SDKs that collect or process user data."),B.b9,A.al("Children\u2019s Privacy",A.cn().$3$color$fontSize$fontWeight(B.ad,18,B.R)),r.jz("This app is safe for all age groups. Since no data collection exists, there is no risk to children\u2019s privacy."),B.b9,A.al("Data Security",A.cn().$3$color$fontSize$fontWeight(B.ad,18,B.R)),r.jz("As no data is collected or stored, there are no data security risks associated with the use of this app."),B.b9,A.al("Changes to This Policy",A.cn().$3$color$fontSize$fontWeight(B.ad,18,B.R)),r.jz("We may update this Privacy Policy from time to time. Any changes will be reflected on this page."),B.fm,A.hd(A.al("\xa9 2025 Edu Quiz App",A.cn().$2$color$fontSize(B.ak,14)),s,s)],t.p),B.ae,B.w,B.x),s),s),s,s))},
 $S:78}
 A.u8.prototype={
 TP(){A.akF($.b4(),"Not Allowed","Web apps cannot be closed programmatically.",B.fn)
